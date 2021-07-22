@@ -1,0 +1,84 @@
+<resources>
+    <!-- Strings Generales -->
+    <string name="app_name">Tea App</string>
+    <string name="sub_app_name">Order</string>
+    <string name="Teas">TEAS</string>
+    <string name="Contact">CONTACTS</string>
+    <string name="ImdDescriber">IMGPersonal</string>
+    <string name="DEVName">Cristián Neyra Avilés</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imgpersonal">ImgPersonal</string>
+    <string name="textview">TextView</string>
+    <string name="order_summary_title">Order Summary</string>
+    <string name="order_title">Order</string>
+
+    <!-- Nombres de Té -->
+    <string name="black_tea_name">Black Tea</string>
+    <string name="green_tea_name">Green Tea</string>
+    <string name="white_tea_name">White Tea</string>
+    <string name="oolong_tea_name">Oolong Tea</string>
+    <string name="honey_lemon_tea_name">Honey Lemon Tea</string>
+    <string name="chamomile_tea_name">Chamomile Tea</string>
+
+    <!--Sumario de Valores para el Activity Order-->
+    <string name="order_summary" />
+    <string name="total">Total</string>
+    <string name="summary_tea_label">Tea Type</string>
+    <string name="summary_size_label">Size</string>
+    <string name="summary_milk_label">Milk Type</string>
+    <string name="summary_sugar_label">Sugar Amount</string>
+    <string name="summary_total_label">Order Total</string>
+    <string name="summary_quantity_label">Quantity</string>
+
+    <!-- Activity Order valores de formulario para parametrización -->
+    <string name="Customizations">Customizations</string>
+    <string name="milk_choices">Milk Choices</string>
+    <string name="sugar_choices">Sugar Choices</string>
+    <string name="quantity">Quantity</string>
+    <string name="brew_tea">BREW TEA</string>
+    <string name="initial_cost">$0.00</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="tea_size">Size</string>
+    <string name="tea_size_small">Small ($5/cup)</string>
+    <string name="tea_size_medium">Medium ($6/cup)</string>
+    <string name="tea_size_large">Large ($7/cup)</string>
+    <string name="milk_type_none">None</string>
+    <string name="milk_type_nonfat">Nonfat Milk</string>
+    <string name="milk_type_1_percent">1% Milk</string>
+    <string name="milk_type_2_percent">4% Milk</string>
+    <string name="milk_type_3_percent">8% Milk</string>
+    <string name="sweet_type_0">0% - Not Sweet</string>
+    <string name="sweet_type_20">20% - Slightly Sweet</string>
+    <string name="sweet_type_50">50% - Half Sweet</string>
+    <string name="sweet_type_90">90% - Moderately Sweet</string>
+    <string name="asdf">-</string>
+    <string name="fragment_teas_list">fragment teas list</string>
+    <string name="name_tea">name_tea</string>
+    <string name="orderButton">OrderButton</string>
+    <string name="esto_es_una_prueba">Esto es una Prueba</string>
+    <string name="nombre_del_t">Nombre del Té</string>
+    <string name="Increment">+</string>
+    <string name="decrement">-</string>
+
+    <!-- opciones de Spiners -->
+    <string-array name="tea_size_array">
+        <item>Small ($5/cup)</item>
+        <item>Medium ($6/cup)</item>
+        <item>Large ($7/cup)</item>
+    </string-array>
+
+    <string-array name="milk_array">
+        <item>None</item>
+        <item>1% Milk</item>
+        <item>4% Milk</item>
+        <item>8% Milk</item>
+    </string-array>
+
+    <string-array name="sugar_array">
+        <item>0% - Not Sweet</item>
+        <item>20% - Slightly Sweet</item>
+        <item>50% - Half Sweet</item>
+        <item>90% - Moderately Sweet</item>
+    </string-array>
+
+</resources>
